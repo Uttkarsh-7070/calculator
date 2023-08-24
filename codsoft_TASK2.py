@@ -92,7 +92,7 @@ btn20.place_configure(x=130,y=520)
 btn21=Button(r,text="Exit",width=21,height=2,font=("Source Sans pro semibold",15,"bold"),bg="skyblue",fg="Black",command=lambda:exit())
 btn21.place_configure(x=255,y=520)
 
-
+r.mainloop()
 
 
 
